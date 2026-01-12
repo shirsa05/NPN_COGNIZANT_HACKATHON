@@ -1,6 +1,7 @@
 # NPN_COGNIZANT_HACKATHON
 A review sentiment analyzer solution for hotel owners.
 <br>
+```
 NPN_COGNIZANT_HACKATHON <br>
 |<br>
 ├── **src** -- Prediction endpoint<br>
@@ -28,7 +29,7 @@ NPN_COGNIZANT_HACKATHON <br>
 ├── **others**   -- streamlit app<br>
 │ ├── data_cleaning_ver1.ipynb -- an eda files<br>
 │ ├── new_data.csv -- data used for training <br>
-
+```
 
 
 
