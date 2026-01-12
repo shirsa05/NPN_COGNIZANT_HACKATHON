@@ -19,7 +19,7 @@ NPN_COGNIZANT_HACKATHON
 |
 ├── NPN_COG_APP -- streamlit app 
 │ ├── .gitignore 
-│ ├── api_client.py -- api integration with database, and gensin endpoint 
+│ ├── api_client.py -- api integration with database, and gensim endpoint 
 │ ├── app.py -- main app.py 
 │ ├── dashboard.py -- dashboard code 
 │ ├── database.py -- database insert, fetch code 
